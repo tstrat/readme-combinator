@@ -1,0 +1,23 @@
+{
+  "name": "readme-combinator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readme-creator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstrat/readme-combinator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstrat/readme-combinator/issues"
+  },
+  "homepage": "https://github.com/tstrat/readme-combinator#readme",
+  "dependencies": {
+    "axios": "^0.19.1"
+  }
+}
